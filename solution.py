@@ -1,37 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@xuebinzhang08 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-lzurzolo
-/
-cs-gy-6843-smtp
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-cs-gy-6843-smtp/solution.py /
-@lzurzolo
-lzurzolo Submission completed
-Latest commit da784ae 6 days ago
- History
- 1 contributor
-75 lines (63 sloc)  2.23 KB
-  
 from socket import *
 
 def smtp_client(port=1025, mailserver='127.0.0.7'):
@@ -107,15 +73,3 @@ def smtp_client(port=1025, mailserver='127.0.0.7'):
 
 if __name__ == '__main__':
     smtp_client(1025, "127.0.0.7")
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
